@@ -5,28 +5,35 @@ using UnityEngine.InputSystem;
 
 public class PlayerMove : MonoBehaviour
 {
-    public float speedMove = 50f;
+    [SerializeField] float walkSpeed = 0.05f;
 
+    private Vector2 _moveInput;
     private CharacterController _charControl;
-    // private Camera _camera;
 
     // Start is called before the first frame update
     void Start()
     {
         _charControl = GetComponent<CharacterController>();
-        // _camera = GetComponentInChildren<Camera>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        Run();
+    }
+
+    private void Run()
+    {
+        // _charControl.velocity.y => 0 in the vector3 because we want to stay on ground
+        Vector3 playerVelocity = new Vector3(_moveInput.x * walkSpeed, 0, _moveInput.y * walkSpeed);
+
+        // rigid.body.velocity ok but velocity just get for a CharController
+        // SimpleMove in Unity forum, dont works in this case
+        _charControl.Move(transform.TransformDirection(playerVelocity));
     }
 
     private void OnMove(InputValue value)
     {
-        // Debug.Log("key pressed");
-        _charControl.Move(speedMove * Time.deltaTime * new Vector3(value.Get<Vector2>().x, 0, value.Get<Vector2>().y));
-        // transform.position = speedMove * Time.deltaTime * new Vector3(value.Get<Vector2>().x, 0, value.Get<Vector2>().y);
+        _moveInput = value.Get<Vector2>();
     }
 }
