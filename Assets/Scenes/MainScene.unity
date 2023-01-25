@@ -295,6 +295,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 308298241608721980, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 6.1000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 308298241608721980, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 6.1000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 308298241608721980, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 6.1000004
+      objectReference: {fileID: 0}
     - target: {fileID: 308298241608721981, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
         type: 3}
       propertyPath: m_Sprite
@@ -365,6 +380,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Painting Rembrandt
+      objectReference: {fileID: 0}
+    - target: {fileID: 5434360261229263319, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: -168
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7c7d6efb4ccfdd644801e57abd51f11b, type: 3}
@@ -444,6 +464,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 308298241608721980, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 308298241608721980, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 308298241608721980, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 308298241608721981, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
         type: 3}
       propertyPath: m_Sprite
@@ -514,6 +549,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Painting Renoir
+      objectReference: {fileID: 0}
+    - target: {fileID: 5434360261229263319, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: -193
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7c7d6efb4ccfdd644801e57abd51f11b, type: 3}
@@ -1035,6 +1075,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Painting Munch
+      objectReference: {fileID: 0}
+    - target: {fileID: 5434360261229263319, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: -110
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7c7d6efb4ccfdd644801e57abd51f11b, type: 3}
@@ -3039,6 +3084,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 308298241608721980, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 308298241608721980, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 308298241608721980, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 308298241608721981, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
         type: 3}
       propertyPath: m_Sprite
@@ -3110,6 +3170,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Painting Van Gogh
       objectReference: {fileID: 0}
+    - target: {fileID: 5434360261229263319, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: -190
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7c7d6efb4ccfdd644801e57abd51f11b, type: 3}
 --- !u!1001 &715459113
@@ -3119,6 +3184,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 308298241608721980, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 308298241608721980, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 308298241608721980, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 4.55
+      objectReference: {fileID: 0}
     - target: {fileID: 308298241608721981, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
         type: 3}
       propertyPath: m_Sprite
@@ -3189,6 +3269,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Painting Velasquez
+      objectReference: {fileID: 0}
+    - target: {fileID: 5434360261229263319, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: -126
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7c7d6efb4ccfdd644801e57abd51f11b, type: 3}
@@ -3439,6 +3524,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Painting Klimt
       objectReference: {fileID: 0}
+    - target: {fileID: 5434360261229263319, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: -140
+      objectReference: {fileID: 0}
+    - target: {fileID: 5434360261229263319, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: -140
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7c7d6efb4ccfdd644801e57abd51f11b, type: 3}
 --- !u!1001 &1347283267
@@ -3518,6 +3613,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Painting Fridas
+      objectReference: {fileID: 0}
+    - target: {fileID: 5434360261229263319, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: -130
+      objectReference: {fileID: 0}
+    - target: {fileID: 5434360261229263319, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: -126
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7c7d6efb4ccfdd644801e57abd51f11b, type: 3}
@@ -3666,6 +3771,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 308298241608721980, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 8.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 308298241608721980, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 8.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 308298241608721980, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 8.3
+      objectReference: {fileID: 0}
     - target: {fileID: 308298241608721981, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
         type: 3}
       propertyPath: m_Sprite
@@ -3736,6 +3856,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Painting Botticelli
+      objectReference: {fileID: 0}
+    - target: {fileID: 5434360261229263319, guid: 7c7d6efb4ccfdd644801e57abd51f11b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: -230
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7c7d6efb4ccfdd644801e57abd51f11b, type: 3}
