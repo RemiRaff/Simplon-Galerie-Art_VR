@@ -130,7 +130,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh28652
+  m_Name: pb_Mesh41986
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -774,7 +774,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.9, z: 0.3}
+  m_LocalPosition: {x: 0, y: 0.7, z: 0.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3897,9 +3897,9 @@ CharacterController:
   m_Height: 2
   m_Radius: 0.6
   m_SlopeLimit: 45
-  m_StepOffset: 0.3
+  m_StepOffset: 0.7
   m_SkinWidth: 0.08
-  m_MinMoveDistance: 0.0005
+  m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &1578820019
 Transform:
@@ -4037,7 +4037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6df9d704061eada45a9b45cbe5aa0b23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkSpeed: 0.05
+  walkSpeed: 10
 --- !u!1 &1599520612
 GameObject:
   m_ObjectHideFlags: 0
@@ -4234,7 +4234,7 @@ Transform:
   m_GameObject: {fileID: 1890657038}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 0.8, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1578820019}
