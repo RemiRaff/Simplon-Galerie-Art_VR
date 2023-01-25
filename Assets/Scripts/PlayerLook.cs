@@ -5,8 +5,7 @@ using UnityEngine;
 public class PlayerLook : MonoBehaviour
 {
     // https://www.youtube.com/watch?v=Tz-2Z0vLLt8
-    public float mouseSensitivity = 250f;
-
+    [SerializeField] float mouseSensitivity = 250f;
     [SerializeField] float maxViewDistance = -30f;
     [SerializeField] float minViewDistance = 25f;
     [SerializeField]  Transform playerBody;
