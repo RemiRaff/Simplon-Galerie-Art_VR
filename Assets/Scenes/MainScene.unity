@@ -828,7 +828,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mouseSensitivity: 1000
   maxViewDistance: -30
-  minViewDistance: 25
+  minViewDistance: 35
   playerBody: {fileID: 1578820019}
 --- !u!1001 &435959964
 PrefabInstance:
@@ -4037,7 +4037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6df9d704061eada45a9b45cbe5aa0b23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkSpeed: 10
+  walkSpeed: 20
 --- !u!1 &1599520612
 GameObject:
   m_ObjectHideFlags: 0
