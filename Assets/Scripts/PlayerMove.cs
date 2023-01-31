@@ -26,7 +26,7 @@ public class PlayerMove : MonoBehaviour
     {
         // _charControl.velocity.y => 0 in the vector3 because we want to stay on ground
         Vector3 playerVelocity = new Vector3(_moveInput.x, 0, _moveInput.y);
-        // Vector3 move = transform.right * x + transform.forward * z;
+        // Vector3 move = transform.right * x + transform.forward * z;  // tranform.* use local direction
 
         // rigid.body.velocity ok but velocity just get for a CharController
         // SimpleMove in Unity forum, dont works in this case
